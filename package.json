@@ -1,0 +1,14 @@
+{
+  "name": "slot-machines",
+  "version": "1.0.0",
+  "description": "A Side Project to practice some js",
+  "main": "slotMachine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Sianipar",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
