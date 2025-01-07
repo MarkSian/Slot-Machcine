@@ -1,5 +1,8 @@
 # Slot Machcine
  A Javascript based slot machine game operable in the terminal. 
+ 
+ 
+ ![alt text](<slotMachine Screenshot.JPG>)
 
   ## Description
   A game that allows you to play a slot machine game within your terminal. At the start of the game decide how much money you would like to play with. Once decided, bet for 1 to 3 lines on the slot machine. If betting on 3 lines, make sure that the sum of those bets is less than or equal to your funds. Win until you are satisfied or lose until you're out of your fake money!
